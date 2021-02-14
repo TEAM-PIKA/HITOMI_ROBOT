@@ -48,4 +48,4 @@ pickledb
 hachoir
 pytube
 youtube-search-python
-Hitomi
+
